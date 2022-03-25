@@ -1,5 +1,11 @@
 # @verdaccio/ui-theme
 
+## 6.0.0-6-next.23
+
+### Patch Changes
+
+- 5b390396: fix: fixes some style issues on mobile, particularly related to the Ukraine support message - [@s-h-a-d-o-w](https://github.com/s-h-a-d-o-w)
+
 ## 6.0.0-6-next.22
 
 ### Patch Changes
